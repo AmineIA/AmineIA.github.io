@@ -18,13 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Amine Arbaoui est un ingénieur en intelligence artificielle, reconnu pour sa passion et son talent exceptionnels dans le domaine. Diplômé de l'Ecole Centrale de Casablanca et de l'Université de Reims Champagne-Ardenne, il se distingue par sa créativité et sa capacité à innover.
+Welcome to my personal website! I have completed a Master’s degree in Artificial Intelligence, following my engineering degree in Data Science at Ecole Centrale Casablanca and an Erasmus exchange at Ecole Centrale Marseille.
 
-En plus de son expertise en IA, Amine est un fervent amateur de musique et un passionné de football. Sa créativité s'exprime autant dans ses projets professionnels que dans ses productions musicales. Ses compétences en programmation et en analyse de données, combinées à une approche méthodique et innovante, font de lui un atout précieux pour toute équipe.
+In addition to my studies, I have gained valuable experience as an intern in Deep Learning at the Laboratoire d’informatique et systèmes in Marseille, where I optimized advanced models like Mask RCNN. I also served as an AI engineer intern at CTC - Centre Technique du Cuir in Lyon, working on projects for companies such as Hermès and Chanel.
 
-Trilingue, parlant couramment l'arabe, le français et l'anglais, Amine a démontré son leadership en tant que président du BDE à Centrale Casablanca. Il est toujours à la recherche de nouvelles opportunités pour repousser les limites de l'intelligence artificielle, tout en cultivant ses passions personnelles.
+I am passionate about innovation and have worked on various AI projects, including a legal assistance chatbot and optimization of marketing campaigns using machine learning. My technical skills encompass Python, PyTorch, TensorFlow, and data visualization tools like Power BI and Tableau.
 
-Amine est un individu exceptionnel, dont la combinaison unique de compétences techniques, de créativité et de passion fait de lui un acteur clé dans le monde de l'IA.
+Beyond my professional interests, I am actively involved in extracurricular activities. I served as the president of the student council at Centrale Casablanca and am a member of the administrative council. My hobbies include music production and football.
+
+Feel free to explore my website to discover my projects, accomplishments, and learn more about me.
 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
