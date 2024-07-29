@@ -16,7 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website! I have completed a Master’s degree in Artificial Intelligence, following my engineering degree in Data Science at Ecole Centrale Casablanca and an Erasmus exchange at Ecole Centrale Marseille.
+Welcome to my personal website! It's Amine here
+I have completed a Master’s degree in Artificial Intelligence, following my engineering degree in Data Science at Ecole Centrale Casablanca and an Erasmus exchange at Ecole Centrale Marseille.
 
 In addition to my studies, I have gained valuable experience as an intern in Deep Learning at the Laboratoire d’informatique et systèmes in Marseille, where I optimized advanced models like Mask RCNN. I also served as an AI engineer intern at CTC - Centre Technique du Cuir in Lyon, working on projects for companies such as Hermès and Chanel.
 
@@ -26,5 +27,3 @@ Beyond my professional interests, I am actively involved in extracurricular acti
 
 Feel free to explore my website to discover my projects, accomplishments, and learn more about me.
 
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
